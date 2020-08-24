@@ -1,6 +1,10 @@
-const Main = () => (
+const Main = ({
+  title = 'Olá Mundo!',
+  description = 'TypeScript, ReactJS, NetxJS e Styled Components'
+}) => (
   <main>
-    <h1>Olá Mundo!</h1>
+    <h1>{title}</h1>
+    <p>{description}</p>
   </main>
 )
 
