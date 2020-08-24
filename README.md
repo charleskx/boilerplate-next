@@ -5,12 +5,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 To start a new project using the current boilerplate, just follow these steps:
 
 ```bash
-npx create-next-app --example [https://github.com/charleskx/boilerplate-next](https://github.com/charleskx/boilerplate-next)
+npx create-next-app --example https://github.com/charleskx/boilerplate-next
 #or
-yarn create next-app -example [https://github.com/charleskx/boilerplate-next](https://github.com/charleskx/boilerplate-next)
+yarn create next-app -example https://github.com/charleskx/boilerplate-next
 ```
-
-
 
 ## Getting Started
 
