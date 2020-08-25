@@ -6,7 +6,7 @@ To start a new project using the current boilerplate, just follow these steps:
 
 ```bash
 npx create-next-app --example https://github.com/charleskx/boilerplate-next
-#or
+# or
 yarn create next-app -example https://github.com/charleskx/boilerplate-next
 ```
 
