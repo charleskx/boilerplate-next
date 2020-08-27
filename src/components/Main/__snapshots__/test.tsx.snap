@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render correctly 1`] = `
+<main>
+  <h1>
+    Olá Mundo!
+  </h1>
+  <p>
+    TypeScript, ReactJS, NetxJS e Styled Components
+  </p>
+</main>
+`
